@@ -1,5 +1,11 @@
-# Algorithms - design and analysis (Stanford), Part II.
-# Programming Assignment 1-1: Greedy jobs scheduling
+'''
+Algorithms - design and analysis (Stanford), Part II.
+
+Programming Assignment 1-1:
+Greedy jobs scheduling
+
+@author: Mikhail Dubov
+'''
 
 def greedy_minimal_weighted_sum(jobs, greedy_criterion, ties_criterion):
     

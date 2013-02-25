@@ -1,4 +1,6 @@
 '''
+Algorithms - design and analysis (Stanford), Part I.
+
 Programming assignment 1:
 
 count the number of inversions
