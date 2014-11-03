@@ -1,4 +1,4 @@
-Algorithms-design-and-analysis
-==============================
+Algorithms
+==========
 
-Programming assignments for Tim Roughgarden's (Stanford) algorithms class on Coursera.org (Part I &amp; II)
+Python implementations of some basic algorithms
